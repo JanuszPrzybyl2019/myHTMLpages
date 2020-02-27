@@ -1,0 +1,180 @@
+<html><!-- Five --><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Moje potrfolio</title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<link href="../photon/assets/css/main.css" rel="stylesheet">
+		<noscript>&lt;link rel="stylesheet" href="assets/css/noscript.css" /&gt;</noscript>
+	</head>
+	<body>
+
+		<!-- Header -->
+			<section id="header">
+				<div class="inner">
+
+					<span class="icon solid major fa-cloud"></span>
+					<h1>Hi, I'm <strong>Janusz Przybył</strong>,</h1> 
+<p> candidate (junior) Java developer! </p>
+					<ul class="actions special">
+						<li><a class="button scrolly" href="#one">Discover</a></li>
+					</ul>
+				</div>
+			</section>
+
+		<!-- One -->
+			<section class="main style1" id="one">
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>About me ... </h2>
+							</header>
+<p>I work as teacher a practical training .</p>
+<p>An electrician by education.</p>
+<p>A passionate programmer ... .</p>
+						</div>
+						<div class="col-6 col-12-medium imp-medium">
+							<span class="image fit"><img alt="" src="images/pic01.jpg"></span>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section class="main style2" id="two">
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<ul class="major-icons">
+								<li><span class="icon solid style1 major fa-code"></span></li>
+								<li><span class="icon solid style2 major fa-bolt"></span></li>
+								<li><span class="icon solid style3 major fa-camera-retro"></span></li>
+								<li><span class="icon solid style4 major fa-cog"></span></li>
+								<li><span class="icon solid style5 major fa-desktop"></span></li>
+								<li><span class="icon solid style6 major fa-calendar"></span></li>
+							</ul>
+						</div>
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>Why ...</h2>
+							</header>
+<p>I decided to become a programmer because I am looking for new challenges. </br>
+This is also my answer to the suggestions that I can only teach or sit in "Biedronka" on the cash register.<br>
+It is also my dream from my youth!</p>
+
+							<p> </p>
+<h2>My free time</h2>
+<p>I spend my free time mainly at home. Computer is my passion and entertainment, but not only computer.<br>
+I like skiing in the winter and cycling in the summer. If I can, I play table tennis.
+I also like to play checkers.<br>
+Checkers is a classic strategy game. They develop strategic and tactical thinking.  They have simple rules but provide a lot of emotions!!!</p>
+
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Three -->
+			<section class="main style1 special" id="three">
+				<div class="container">
+					<header class="major">
+						<h2>Sustainable development</h2>
+					</header>
+<p> Every day I try to learn something new. <br>Time lisens - development is a necessity today. <br>
+I have an idea for my future career, but to realize my dreams I need business experience and practical knowledge. 
+What I can do today is the result of continuous development throughout my life. 
+Unfortunately, I have not always done it thoughtfully as part of a balanced manner. 
+I completed several post-graduate studies, several courses. I browse websites, check how others do it. I keep my ear on the ground.
+I want to work as a junior Java developer, but the market requires youth and experience or at least experience.<br>
+ I miss them both. <br>
+An alternative for me is to continue working as a teacher, but in this case I would like to change industries and teach future programmers. But here also need experience.</p>
+					<div class="row gtr-150">
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img alt="" src="../photon/images/pic02.jpg"></span>
+							<h3>Java</h3>
+							<p>java
+A Java is probably the most popular programming language.
+I started my adventure with Java from self-study. Now I know it wasn't a good idea.
+When learning a new language, I duplicated old habits, a native of Pascal and even Fortran (languages I once learned).
+I went through several tutorials, but I didn't like this form either. Fortunately, I came across codegym.cc (I recommend).
+I still study there and do not know when I will finish this course but it encouraged me to look for something better.
+I signed up for commercial training. The beginning was difficult (too fast pace) - in one weekend I repeated almost everything that I learned on the Internet for several months.
+Later it got harder but I did it. I endured to the end and now I can proudly say that it was worth it, although much of what I have learned is still magic for me.</><ul class="actions special">
+								<li><a class="button" href="#">More</a></li>
+							</ul>
+						</div>
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img alt="" src="../photon/images/pic03.jpg"></span>
+							<h3>HTML/CSS/JS</h3>
+							<p><a href="https://getbootstrap.com">bootstrap 4</a></p>
+							<ul class="actions special">
+								<li><a class="button" href="#">More</a></li>
+							</ul>
+						</div>
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img alt="" src="../photon/images/pic04.jpg"></span>
+							<h3>Kotlin</h3>
+							<p>I  am learning independently "Kotlin"</p>
+							<p>class Hello {<br>
+    private var name: String = "Basic Kotlin course"<br>
+
+    fun printMe() {<br>
+        print("Jesteś na kursie o nazwie-" + name)<br>
+    }<br>
+
+}</p><br>
+							<ul class="actions special">
+								<li><a class="button" href="#">More</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Four -->
+			<section class="main style2 special" id="four">
+				<div class="container">
+					<header class="major">
+						<h2>Strona CKZ </h2>
+					</header>
+					<p>Zajęcia praktyczne dla technikum elektrycznego - kwalifikacja EE.05</p>
+					<ul class="actions special">
+						<li><a class="button wide" href="index1.html">Strona głowna pracowni.</a></li>
+</b>
+						<li><a class="button wide" href="indeks.html">M U i N M i U E</a></li>
+</br>
+                        <li><a class="button wide" href="instalacje_elektryczne.html">M U i N I E</a></li>
+                        </br>
+                        <li><a class="button wide" href="elektronik.html">MUE</a></li>
+					</ul>
+				</div>
+			</section>
+
+		
+	<hr>
+					
+			<section>
+				<ul class="icons">
+					<li><a class="icon brands alt fa-twitter" href="#"><span class="label">Twitter</span></a></li>
+					<li><a class="icon brands alt fa-facebook-f" href="#"><span class="label">Facebook</span></a></li>
+					<li><a class="icon brands alt fa-instagram" href="#"><span class="label">Instagram</span></a></li>
+					<li><a class="icon brands alt fa-github" href="#"><span class="label">GitHub</span></a></li>
+					<li><a class="icon solid alt fa-envelope" href="#"><span class="label">Email</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>© JanuszP</li>
+                                        <li>Design: <a href="http://html5up.net">HTML5 Up</a></li>
+                                         <li>and:   <a href="https://getbootstrap.com">Bootstrap 4</a></li>
+				</ul>
+			</section>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	
+</body>
+</html>
