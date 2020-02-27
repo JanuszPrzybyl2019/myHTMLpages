@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+  <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Required meta tags -->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title>Montaż urządzeń elektronicznych</title>
+    
+  </head>
+  
+<body>
+    <div class="container-fluid" style="background-color:lightblue">
+         <button type="button" class="btn btn-success"  type="button" onclick="alert('Miłej zabawy, młody elektroniku!!')">Odważ się!</button>
+         <button><a href="http://www.datasheetcatalog.com/">datasheet katalog</a></button>
+    <br>
+    <a href="http://www.physics-chemistry-interactive-flash-animation.com/electricity_electromagnetism_interactive/oscilloscope_description_tutorial_sounds_frequency.htm">dźwięki na oscyloskopie</a>
+    <br>
+   
+    <a href="http://www.physics-chemistry-interactive-flash-animation.com/electricity_electromagnetism_interactive/simple_circuit.htm">prosty obwód elektryczny</a>
+     <br>
+    <a href="http://www.physics-chemistry-interactive-flash-animation.com/electricity_electromagnetism_interactive/components_circuits_association-series_parallel.htm">połaczenie odbiorników</a>
+     <br>
+    <a href="http://www.physics-chemistry-interactive-flash-animation.com/electricity_electromagnetism_interactive/sine_waveform_voltage_AC.htm">sinusoida</a>
+    <br>
+    <a href="http://http://www.physics-chemistry-interactive-flash-animation.com/electricity_electromagnetism_interactive/solenoid_magnetic_field_current_poles_north_south.htm">magnetyzm</a>
+  <br>
+    <a href="http://www.physics-chemistry-interactive-flash-animation.com/electricity_electromagnetism_interactive/multimeter.htm">pomiary  miernikiem</a>
+ <br>
+    <a href="http://www.physics-chemistry-interactive-flash-animation.com/electricity_electromagnetism_interactive/lorentz_force_rail_gun_three_fingers_right_hand_rule.htm">siłą Lorentza</a>
+
+   
+   </div>
+   
+   <div class="container-fluid"> 
+<div class="container">
+   <h1 style="background-color:lightgray"><center>Hello world of electronics!</center></h1>
+   <div class="container-fluid">
+       <div style="background-color:lightgray">
+           <h2> Zajęcia 2 marca</h2>
+                  <h4> Kontrola działania układów</h4>
+                  <p><b>Zagadnienia:</b>
+                  <br> - rozpoznawanie podstawowych elementów i układów;
+                  <br> - opisywanie rozpoznanych elementów i układów;
+                  <br> - określanie funkcji elementów i układów;
+                  <br> - łączenie elementów i układów;</p>
+                   Zadanie 1: Zapoznaj się i zapamiętaj oznaczenia i nazwy elementów przedstawionych w poniższej tabeli.<br>
+                   symbole<img alt="symbole podstawowych elementów elektronicznych" src="../elektronik/symbole_podstawowe.png" width="350" height="250"/><br><br>
+                   Zadanie 2: Wyjaśnij działanie układu przedstawonego na schemacjie poniżej.<br>
+                   LED<img alt="zasilanie" src="../elektronik/z2.png" width="350" height="250"/><br><br>
+                   Zadanie 3: Oznaczanie węzła na schemacie. Kropka oznacza "węzeł" czyli punkt stanowiące połączenie elektryczne.<br>
+                     to samo<img alt="proste sterowanie diaody LED" src="../elektronik/z3.png" width="300" height="250"/>  <b> = </b>
+                     <img alt="proste sterowanie diaody LED" src="../elektronik/z4.png" width="250" height="250"/><br>
+                  Zadanie+ : 
+                  <br>a) Przeanalizuj schemat brzęczyka, znajdujący się poniżej.
+                  <br>b) Wymień elementy bierne i czynne , które rozpoznajesz na schemacie.
+                  <br>c) Wymień typowe układy, które rozpoznajesz na schemacie i omów ich rolę.
+                  <br>d) Wskaż filtry znajdujące się na schemacie i określ ich rolę. Wyjaśnij jaki wpływ na działanie układu będzie miała zmiana indukcyjności cewek L1 i L2.<br>
+                   brzęczyk <img alt="schemat buzera" src="../elektronik/brzęczyk.png" width="400" height="250"/>  <br>
+                   <p> Powodzenia!</p>
+               
+       </div
+          <hr>
+       <div "background-color:lightgray">
+               <h4 class="center">Zajęcia 24 lutego</h4>
+               <h5><u>Temat:</u>Wykonywanie pomiarów w prostym obwodzie elektronicznym</h5>
+              
+                   Celemzajęć jest poznanie podstawowych technik pomiary wielkości elektrycznych. Pomiar napięcia, prądu, rezystancji wykonuje się najczęściej za pomocą multimetów cyfrowych. Są to przyrządy przeznaczone do pomiaru tych wielkości. 
+                   <br>Pomiary elementów biernych oraz pomiary mocy i energii elektrycznej często wykonywane są z wykorzystaniem bardziej wyspecjalizowanych aparatów oraz odpowiednich układów pomiarowych.
+                   <br>
+                   Powszechnie wykorzystywanym przyrządem pomiarowym jest cyfrowy multimetr wielofunkcyjny. Nawet najprostszy multimetr umożliwia pomiar: napięcia stałego i zmiennego, prądu stałego (rzadziej zmiennego), rezystancji, częstotliwości.
+                   <br>Często mierniki takie umożliwiają także pomiar pojemności, temperatury, okresu oraz sprawdzanie diody lub tranzystorów. 
+                   <br>Wykonując pomiar musimy mieć wiedzę o tym co mierzymy. Wybór (za pomocą przełacznika) pomiaru prądu (napięcia )stałego - <b>DC</b> oznacza pomiar wartości średniej napięcia w określonym czasie.
+                   <br> Odpowiednio wybór AC oznacza pomiar wartości <b>skutecznej</b> napięcia (prądu)przemiennego.
+                   <br> Wielkie znaczenie ma również zagadnienie prawidłowości i dokładności pomiaru.<br>
+                    <img alt="sinusoida" src="../elektronik/sinusoida.jpg" width="600" height="400"/>
+                     <img alt="prawo ohma" src="../elektronik/PrawoOhma.png" width="600" height="400"/>
+  </div>
+ <div style="backround-color: lightblue">
+               <h4>Ćwiczenie1 - pomiar napięcia</h4>
+               Zagadnienia: Wybór zakresu pomiarowego, określenie dokładności pomiaru.
+               <h4>Ćwiczenie2 - pomiar prądu</h4>
+               Zaadnienia: metody pomiarowe, czy mozna zmierzyć prąd za pomocą woltomierza?, rozszerzanie zakresu pomiarowego amperomierza, co to jest bocznik?
+               <h4>Ćwiczenie 3: pomiar rezystancji metodą techniczną</h4
+               <ul>
+                   <li>Czym rózni się metoda techniczna pomiaru małych rezystancji do metody pomiaru dużych rezystancji?</li>
+                   <li>Na jakiej podstawie decydujemy czy opornik ma "małą" czy "dużą" rezystancję?</li>
+                   <li>Jaka jest dokładność pomiaru?</li>
+               </ul>
+               <h4>Ćwiczenie4 - wyznaczanie (pomiar) indukcyjności cewki i pojemności kondensatora.</h4>
+               <h4>Ćwiczenie 5 - badanie elementów czynnych.</h4>
+               Co nazywamy elementami czynnymi (aktywnymi) w elektronice?
+               
+               <p> Przed wykonaniem pomiarow musimy zmontować obwód, w którym będziemy dokonywali pomiarów.</p>
+              
+               <p>Mierzyć będziemy: prąd, napięcie, parametry podzespołów - rózymi metodami, również z wykorzystaniem oscyloskopu.</p>
+               <hr>
+               <p>Parametry, których nie będziemy mogli zmierzyć bezpośrednio, obliczymy na podstawie innych zmierzonych wyników.</p>
+  </div>
+ </diV>
+ <div style="background-color:lightblue">
+     <h4 class="center"> materiały na zajęcia w dniu 17 lutego!  - dla kl. 2 te - </h4>
+     <h6> <center>Na zajęciach praktycznych korzystali będziemy z podstawowych elementów, które musicie znać.  </></h6>
+      <img alt="Symbole elementów czynnych" src="../elektronik/symbole.png" width="400" height="250"/> 
+       <img alt="płytka stykowa - prototypowa" src="../elektronik/plytka_stykowa_biala_duzav2.png" width="400" height="250"/>
+      
+     <p >Poznajemy podstawowe elementy. Ich znajomość otworzy Wam drzwi do świata elektroniki. Na bazie tych urządzeń prowadzonę będą zajęcia. <a href="https://botland.com.pl/pl/szukaj?search_query=1bElektronikaForbot&submit_search=&orderby=price&orderway=asc">niezbędnik początkującego elektronika.</a>
+     <br>Znając rezystory, kondensatory, diody, diody  LED, tranzystory, tyrystory będziesz mógł montować różne urządzenia.</p>
+     <p> Na początek zajmiemy się projektowaniem i montażem prostego układu np. prostownika stabilizowany. Dobór elementów i obliczenia to nic trudnego. </p>
+     <p> Temat: <u>Projektowanie, montaż i badanie prostownika stabilizowanego.</u></p>
+     <p>Schemat jakiś mamy ale szczegóły się nie zgadzają. Nasze podzespoły mają inne parametry niż te na schemacie. Jak sprawdzić czy urządzenie zadaiała?"</p>
+     <p>Pomocne będą: obliczenia i ... płytka prototypowa</p>
+     <p>Płytka pozwoli nam, bez zbędnych kosztów, sprawdzić czy nasz projekt ma sens oraz dokonać pomiarów sprawdzających i w razie potrzeby wykonać szybką korektę.</p>
+     <hr>
+     <h5 class="center">Prostownik stabilizowany - budowa, działanie, pomiary.</h5>
+     <img alt="Prostownik stabilizowany" src="../elektronik/prostownikStabilizowany.png" width="600" height="400"/>
+      <img alt="prostownik2diody" src="../elektronik/prostownik2diody.jpg" width="600" height="400"/>
+      <br>
+      <hr>
+           <img alt="prostownik2diody" src="../elektronik/BT169.png" width="600" height="400"/> 
+           <img alt="prostownik4diody" src="../elektronik/prostownik4diody.jpg" width="600" height="400"/>
+ </div>
+           <hr>
+  
+
+               
+
+     <br>
+     <hr>
+     <div class="c">
+     <p>Powodzenia!</p>
+ <h1>Zajęcia zapoznawcze</h1>
+      <p> Diody</p>
+      <img alt="Diody LED - różne kolory - różne parametry" src="../elektronik/OKdioda.png" width="300" height="300"/>
+       <img alt="Diody LED - różne kolory - różne parametry" src="../elektronik/dioda.png" width="300" height="200"/>
+ <h3 style="background-color:lightgray"><center>Obliczanie parametrów obwodu z diodą świecącą.</center></h3>
+<img alt="Diody LED - różne kolory - różne parametry" src="../img/DiodyLED.png" width="600" height="400
+
+  </div>
+  <hr>
+ </div>
+     <div style="background-color:lightgray"> 
+
+     <img alt="Prostownik stabilizowany" src="../elektronik/prostownikStabilizowany.png" width="600" height="400"/> 
+ <h1>Lutowanie</h1>
+ <p >Podczas zajęć uczeń pozna: <br>technologię THT i SMD montażu elementów elektronicznych(jeżeli posiadane zaplecze na to pozwoli), <br>sposoby wykonywania obwodów drukowanych różnymi metodami,<br> narzędzia wykorzystywane przy montażu elementów elektronicznych, <br>ćwiczenia z lutowania i wylutowywania elementów elektronicznych. </p>
+ <a href=" https://botland.com.pl/pl/lutownice-kolbowe/2825-lutownica-transformatorowa-sthor-79354-100w-5906083793547.html?search_query=lutownica&results=67">lutownice</a>
+ <h2>Wylutowywanie - odzysk elementów</h2>
+ <p>Pomiar parametrów urządzeń po demontażu i ocena ich przydatności.</p>
+ <h3>Projektowanie i wykonanie dzielnika napięć:</h3>
+ </div>
+ <p>Pomiar rezystancji, napięcia, prądu</p>
+ <a href=" https://forbot.pl/blog/kurs-elektroniki-multimetr-pomiary-rezystory-id3952">Pomiary w elektronice</a>
+ <img alt="Rezystory o tym samym oporze ale różnych mocach" src="https://cdn.forbot.pl/blog/wp-content/uploads/2018/12/kurs_elektroniki_rezystory_moc.jpg" width="600" height="400"/>
+ <h3>Kody barwne resystorów</h3>
+ <hr>
+ <a href="http://serwis-tv.com/opornik.html">Kalkulator </a>
+
+ </div>
+ <hr>
+ </br>
+ 
+   
+ 
+ <div class="container-fluid">
+    <div style="background-color:lightgray">
+        <h1>Oscyloskop</h1>
+            <p>Od czego zacząć - jak to działa.</p>
+            <iframe src="https://academo.org/demos/virtual-oscilloscope/?embedded=true" width="1200" height="800"></iframe>
+            <a href="http://hobby-elektronika.eu/audio/pdf/oscyloskop.pdf">Oscyloskop.pdf</a>
+            <p>Podczas zajęć uczeń pozna: budowę i możliwości pomiarowe oscyloskopu, generatora przebiegów okresowych. <br>Wykona pomiary amplitudy i częstotliwości sygnałów elektrycznych. 
+            <br>Wyświetli na oscyloskopie krzywe Lissajous.</p>
+    </div>
+    <p> Więcej na następne zajęcia lub szybciej</p>
+  </div>
+
+ <div style="background-color:#E6E6FA">
+ <h1>Dla hobbystów</h1>
+   
+  <hr>
+ <p>Miecz LED</p>
+ <a href = "https://www.allaboutcircuits.com/projects/how-to-build-the-brightest-led-saber-in-the-world/">Najajśnejszy miecz świetlny - jak wykonać, krok po kroku</a>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/5b5nlUHdytQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+ 
+</body>
+</html>
